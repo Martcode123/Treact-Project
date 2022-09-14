@@ -433,27 +433,58 @@ FEATURES
   
   color: darkgreen;
   font-size: 20px;
-  
+  text-align: center;
+ 
 }
 
 .border {
+  
   padding: 15px 15px 18px 18px;
   display: flex;
-  width: 15%;
-  height: 35%;
+  width: 14%;
+  height: 20%;
   border: none solid green;
   border-radius: 50px;
   background-color: rgb(154 230 180);
+  
 }
 
 .lucky {
   padding-left: 32px;
+  margin-bottom: 60px;
   font-weight: 700;
 }
 
 .values__para {
   font-size: 16px;
   color: #7c8ba1;
+  padding-top: 12px;
 }
+
+.values__row {
+  width: 45%;
+}
+
+.value__para {
+  font-size: 18px;
+  font-weight: 500;
+  color: #7c8ba1;
+  width: 100%;
+  line-height: 1.6;
+}
+
+.values__header {
+  font-weight: 900;
+  padding: 12px 0;
+}
+
+.first__promise {
+  padding: 18px 5px 0 5px;
+}
+.red {
+  background-color: #FEB2B2;
+}
+
+
 
 
