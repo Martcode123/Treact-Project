@@ -8,6 +8,7 @@
 }
 
 
+
 h1 {
   color: #243e63;
   font-size: 48px;
@@ -484,6 +485,202 @@ FEATURES
 .red {
   background-color: #FEB2B2;
 }
+
+/* PRICING */
+
+#Pricing {
+  height: 100vh;
+  
+}
+
+.section__one {
+  border: 2px solid black;
+  width: 280px;
+  height: 160px;
+  border-radius: 4px;
+  margin: bottom 30px;
+}
+
+
+.box__one {
+   padding-top: 12px;
+}
+
+.box__two {
+  padding-top: 12px;
+}
+
+.price {
+  padding-left: 60px;
+}
+
+.time {
+  padding-left: 24px;
+}
+
+.section__two {
+  border: 2px solid black;
+  width: 280px;
+  height: 250px;
+  margin: top 30px; 
+  
+  
+}
+
+.choice {
+  text-align: center;
+}
+
+.choice__description {
+  text-align: center;
+}
+
+.plan__btn {
+  
+  padding-left: 100px;
+}
+
+.btn {
+  text-align: center;
+}
+
+.btn__wrapper {
+  width: 50px;
+}
+
+.para {
+  padding-bottom: 12px;
+  text-align: center;
+}
+
+.time {
+  text-align: center;
+}
+
+.section__three {
+  border: 2px solid black;
+  width: 280px;
+  height: 100px;
+  border-radius: 4px;
+}
+
+.box__three {
+  padding-top: 24px;
+}
+
+.all__plans {
+ padding-top: 50px;
+
+  display: flex;
+}
+
+.plan {
+   margin-bottom: 12px;
+   margin-left: 100px;
+}
+
+.container__two {
+  width: 100%;
+  padding: 200px 100px;
+  
+}
+
+.love__img {
+  width: 700px;
+}
+
+
+
+.capper {
+  display: flex;
+  flex-direction: column;
+  padding-left: 48px;
+}
+
+.stars {
+  display: flex;
+  padding-top: 32px;
+  color: #fabf2a;
+}
+
+.user {
+  padding: 24px 0;
+  color: #243e63;
+}
+
+.man {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  overflow: hidden;
+  box-shadow: 0 8px 16px rgb(0 0 0 / 60%);
+  margin-bottom: 24px;
+  animation: animate-profile-picture 800ms 200ms backwards;
+}
+
+.picture {
+  width: 100%;
+  transform: scale(1);
+  
+}
+
+.flex {
+  display: flex;
+}
+
+.founder {
+  font-size: 16px;
+}
+
+.adam {
+  font-size: 20px;
+  color: #243e63;
+}
+
+.everything {
+  padding: 10px 0 0 32px;
+  display: flex;
+  justify-content: space;
+}
+
+.duis {
+  padding-bottom: 30px;
+}
+
+.koDYDN {
+  position: relative;
+  margin-top: 3rem;
+  max-width: 56rem;
+}
+
+.fSCvgS {
+  margin-top: 1.25rem;
+  cursor: pointer;
+  user-select: none;
+  border-radius: 0.5rem;
+  --tw-bg-opacity: 1;
+  background-color: rgb(237 242 247 / var(--tw-bg-opacity));
+  padding: 1.25rem 2rem;
+  --tw-text-opacity: 1;
+  color: rgb(45 55 72 / var(--tw-text-opacity));
+  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform;
+  transition-duration: 300ms;
+}
+
+.dUGOWw {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+}
+
+.SingleCol__QuestionText-sc-1i4qirp-8 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #243e63;
+}
+
 
 
 
